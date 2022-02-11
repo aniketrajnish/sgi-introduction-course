@@ -34,6 +34,6 @@ git clone https://github.com/odedstein/sgi-introduction-course.git
 ```
 Now, navigate to this directory in MATLAB.
 
-You are now ready to do your first exercise!
+You are now ready to do your first exercise! Previous commit.
 
 
